@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Investigating-the-time-efficiency-of-indexing-vector-point-data-via-the-Point-Quadtree</h1>
+  <h1>Final year Research project </br> Title: Investigating the time efficiency of indexing vector point data via the Point Quadtree</h1>
 <img src="https://molokomokubedi.s3.af-south-1.amazonaws.com/final+year+project.png" height="300px" width="700px">
   <div>
     <p>..............................</p>
